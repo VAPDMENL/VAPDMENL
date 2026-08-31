@@ -15,3 +15,5 @@ Some of my **hobbies** are:
 - Learninf something new
  
 I speak English, Portuguese and a bit of French and Spanish
+
+![profile views](https://github.com/VAPDMENL/github-profile-views-counter/blob/0455764c2bf03e99c913af240a17becc9fd713e7/svg/profile/badge.svg)
