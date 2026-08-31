@@ -11,7 +11,7 @@ Achievements:
 Some of my **hobbies** are:
 - video editing
 - videogames
-- watch documentaries
-- Learn something new
+- watching documentaries
+- Learninf something new
  
 I speak English, Portuguese and a bit of French and Spanish
