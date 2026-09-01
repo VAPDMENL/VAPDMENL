@@ -4,7 +4,7 @@ That's me
 I'm a **Computer Science** student and i like history.
 
 Achievements:
-- **Kangaroo Math** 2024 (Honorable Mention medal)
+- **Math Kangaroo** 2024 (Honorable Mention)
 - **OBRL** 2024 (silver medal)
 - **Sailing** certificates
 
