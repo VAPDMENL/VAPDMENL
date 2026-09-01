@@ -7,6 +7,7 @@ Achievements:
 - **Math Kangaroo** 2024 (Honorable Mention)
 - **OBRL** 2024 (silver medal)
 - **Sailing** certificates
+- **ONE** 2025 (Honorable Mention)
 
 Some of my **hobbies** are:
 - video editing
