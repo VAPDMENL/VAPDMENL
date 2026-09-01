@@ -57,4 +57,5 @@ jobs:
         run: |
           git add README.md metrics.json
           git commit -m "Update profile visitor count" || echo "No changes to commit"
+          git pull origin main --rebase || echo "No rebase needed"
           git push origin main
