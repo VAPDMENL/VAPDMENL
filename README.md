@@ -21,7 +21,7 @@ Some of my **hobbies** are:
 - Managing Discord communities
 
 My programming languages:
-**Python**, **C** and **JavaScript** and **Batch Script**
+**Python**, **C**, **JavaScript** and **Batch Script**
  
 I speak English, Portuguese and a bit of French and Spanish.
 
